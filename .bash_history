@@ -1,44 +1,3 @@
-cd
-ls
-cd documents
-ls
-cd Libraries
-ls
-java -jar selenium-server-standalone-3.5.3.jar -role hub
-killall "Google Chrome"
-jenkins start
-mvn test
-mvn compile
-mvn test
-/Users/musaates/Documents/Libraries/drivers/chromedriver 
-killall "Google Chrome"
-killall "Google Chrome"
-mvn
-mvn test -PRegression
-killall "Google Chrome"
-killall "Google Chrome"
-killall "Google Chrome"
-killall "Google Chrome"
-killall "Google Chrome"
-/Users/musaates/Documents/Libraries/drivers/chromedriver 
-killall "Google Chrome"
-killall "Google Chrome"
-/Users/musaates/Documents/Eclipse/automation-project-test/src/test/resources/drivers/chromedriver ; exit;
-/Users/musaates/Documents/Eclipse/automation-project-test/src/test/resources/drivers/geckodriver ; exit;
-/Users/musaates/Documents/Eclipse/automation-project-test/src/test/resources/drivers/IEDriverServer ; exit;
-killall "Google Chrome"
-killall "Google Chrome"
-killall "Google Chrome"
-pwd
-cd /tmp
-cd /bin
-cd ~
-cd /
-cd ..
-cd ..
-killall "Google Chrome"
-killall "Google Chrome"
-killall "Google Chrome"
 killall "Google Chrome"
 killall "Google Chrome"
 killall "Google Chrome"
@@ -498,3 +457,44 @@ pwd
 killAll "Google Chrome"
 killAll "Google Chrome"
 killAll "Google Chrome"
+killAll "Google Chrome"
+cd
+ls
+cd Documents
+ls
+cd Eclipse
+ls
+cd temp
+ls
+cd AgileTrailBlazers
+mvn test
+cd..
+cd/..
+../
+cd desktop
+ls
+mvn test
+/Users/musaates/Documents/Libraries/drivers/chromedriver 
+killAll "Google Chrome"
+killAll "Google Chrome"
+killAll "Google Chrome"
+cd
+ls
+cd documents
+ls
+cd Eclipse
+ls
+cd temp
+ls
+cd webTable
+ls
+mvn test
+mvn test
+mvn test
+mvn build
+mvn test
+ killAll "Google Chrome"
+killAll "Google Chrome"
+java -version
+brew
+brew list
