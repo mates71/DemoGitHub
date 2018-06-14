@@ -1,102 +1,3 @@
-killall "Google Chrome"
-killall "Google Chrome"
-killall "Google Chrome"
-cd /Users/musaates/Desktop/ScreenShoot ;
-defaults write com.apple.screencapture location /Users/musaates/Desktop/ScreenShoot killall SystemUIServer
-cd ..
-killall SystemUIServer
-defaults write com.apple.screencapture location /Users/musaates/Desktop/ScreenShoot
-killall SystemUIServer
-whereis jenkins
-whereis -jenkins
-whereis Jenkins
- brew install jenkins
- brew install jenkins
- brew services start jenkins
-killall "Google Chrome"
-/Users/musaates/Documents/Eclipse/cucumber-parallel-testing/pom.xml mvn compile
-mvn compile
-mvn archetype:generate
-killall "Google Chrome"
- killall "Google Chrome"
--purgecaches 
-killall "Google Chrome"
-killall Google Chrome"
-
-mvn –version
-mvn compile
-/Users/musaates/Documents/Eclipse/Excel_Automation_Calculator/pom.xml 
-mvn test
-mvn eclipse:eclipse 
-killall "Google Chrome"
-killall "Google Chrome"
- killall "Google Chrome"
-killall "Google Chrome"
-mvn compiler:compile
-mvn
-mvn -version
-mvn test
-mvn compile
-mvn dice
-java -jar jenkins.war 
-killall "Google Chrome"
- killall "Google Chrome"
-java -version
-java -jar jenkins.war 
-java -jar jenkins.war 
- -jar jenkins.war 
-java -jar jenkins.war
-java -jar jenkins.war 
-java -jar jenkins.war
-whereid git
-whereis Git
-whereis Maven
-whereis mvn
-whereis maven
-killall "Google Chrome"
- killall "Google Chrome"
-killall "Google Chrome"
-whereis jdk
-whereis -jdk
-/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/
-brew services start jenkins
-echo $(/usr/libexec/java_home)
-mvn -version
-/Users/musaates/Documents/Eclipse/Dice/pom.xml mvntest
-mvn tes
-mvn test
-/Users/musaates/Documents/Eclipse/Dice/pom.xml 
-mvn tes
-cd
-ls
-cd Library
-ls
-..
-cd ..
-cd 
-ls
-cd eclipse
-ls
-cd java-neon
-ls
-ls
-cd ..
-ls
-cd ..
-ls
-cd git
-ls
-cd MyGitProject
-ls
-pom.xml src
-pom.xml
-pom.xml mvn tes
-mvn test
-mvn test
-killall "Google Chrome"
-mvn
-mvn test
-/Users/musaates/Documents/Eclipse/Dice/pom.xml
 mvn test
 cd
 ls
@@ -498,3 +399,102 @@ killAll "Google Chrome"
 java -version
 brew
 brew list
+killAll "Google Chrome"
+killAll "Google Chrome"
+killAll "Google Chrome"
+killAll "Google Chrome"
+pwd
+w
+cal
+su
+top
+hostname
+ls
+free
+ls
+history
+killAll "Google Chrome"
+killAll "Google Chrome"
+ killAll "Google Chrome"
+killAll "Google Chrome"
+killAll "Google Chrome"
+/Users/musaates/Documents/Libraries/drivers
+/Users/musaates/Documents/Libraries/drivers/chromedriver 
+killAll "Google Chrome"
+killAll "Google Chrome"
+killAll "Google Chrome"
+killAll "Google Chrome"
+killAll "Google Chrome"
+killAll "Google Chrome"
+killAll "Google Chrome"
+killAll "Google Chrome"
+git init
+git add<4>
+git add
+git add.5
+git status
+git push
+git pull
+git clone
+pwd
+ls
+cd documents
+ls
+cd workspace
+ls
+..
+../
+/..
+cd eclipse
+ls
+cd Eclipse
+find
+ls
+pwd
+cd documents
+ls
+killAll"Google Chrome"
+killAll "Google Chrome"
+ killAll "Google Chrome"
+Index. git add
+.git add
+git push -u origin master
+cd /Users/cybertekschool/eclipse-workspace/ReviewSessionsCode
+cd /Users/cybertekschool/eclipse-workspace/ReviewSessionsCode
+cd/Users/musa/eclipse-workspace/ReviewSessionsCodels
+cd /Users/musa/eclipse-workspace/ReviewSessionsCode
+cd /Users/musa/eclipse-workspace/ReviewSessionsCode2ls
+cd /Users/musa/eclipse-workspace/ct-loan
+ls
+cd /Users/musa/eclipse-workspace/ct-loanls
+cd /Users/musa/eclipse-workspace/Google_translate
+ls
+cd document
+cd documents
+ls
+cd eclipse
+ls
+cd temp
+ls
+cd AgileTrailBlazers
+ls
+git init
+git status
+git.add pom.xml
+git add Hook.java
+git add Hook
+git add src
+git commit -m"I added src files"
+git status
+git push
+git push
+git status
+git commit
+git commit -m"initial"
+git log
+help
+q
+cd remote add origin
+git pull
+git push
+git merge
